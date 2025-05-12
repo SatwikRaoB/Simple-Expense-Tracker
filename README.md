@@ -57,6 +57,9 @@ The data is stored in an Excel workbook (`expenses.xlsx`) and manipulated using 
 ## 🖼️ UI Preview
 
 ![image](https://github.com/user-attachments/assets/e79ad6e1-203c-4619-bfc2-40ceddbce579)
+
+<br />
+
 ![image](https://github.com/user-attachments/assets/4ab4b9e8-7b04-4525-8979-2f6018b6732f)
 
 
