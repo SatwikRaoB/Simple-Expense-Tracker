@@ -3,6 +3,10 @@
 **Authors:** Adithya Devarapally & Satwik Rao Balguri  
 **Technologies:** Python, Tkinter, OpenPyXL, Pandas, Matplotlib
 
+<br />
+
+---
+
 ## 📝 Overview
 
 Expense Tracker is a simple yet powerful desktop application designed to help individuals and small businesses monitor and manage their expenses. Built with a user-friendly interface and seamless Excel integration, it enables users to record, categorize, and analyze transactions effectively.
@@ -52,7 +56,9 @@ The data is stored in an Excel workbook (`expenses.xlsx`) and manipulated using 
 
 ## 🖼️ UI Preview
 
-*(Insert screenshots of the final UI here)*
+![image](https://github.com/user-attachments/assets/e79ad6e1-203c-4619-bfc2-40ceddbce579)
+![image](https://github.com/user-attachments/assets/4ab4b9e8-7b04-4525-8979-2f6018b6732f)
+
 
 <br />
 
